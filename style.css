@@ -3,6 +3,7 @@
 @import url('modal.css');
 @import url('gallery.css');
 @import url('slideshow.css');
+@import url('footer.css');
 
 :root {
     --darkgray: #212329;
